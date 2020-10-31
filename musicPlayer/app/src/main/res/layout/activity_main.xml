@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:paddingTop="20sp"
+        android:src="@drawable/song"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </ImageView>
+
+    <LinearLayout
+        android:layout_marginBottom="10sp"
+        android:layout_marginTop="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:textColorHint="@android:color/white"
+            android:background="@android:color/holo_red_dark"
+            android:layout_marginLeft="10sp"
+            android:id="@+id/playBtn"
+            android:hint="Play"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"></Button>
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <SeekBar
+                android:id="@+id/positionBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            </SeekBar>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/elapsedTimeLabel"
+                    android:paddingLeft="10sp"
+                    android:textSize="20sp"
+                    android:hint="0:00"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                </TextView>
+                <TextView
+                    android:id="@+id/remainingTimeLabel"
+                    android:paddingRight="20sp"
+                    android:gravity="right"
+                    android:textSize="20sp"
+                    android:hint="0:00"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                </TextView>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:layout_marginTop="20sp"
+        android:id="@+id/lvSongs"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+</LinearLayout>
