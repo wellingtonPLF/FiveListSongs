@@ -1,7 +1,7 @@
 # FiveListSongs
 Example App showing media player framework.
 
-Aqui eu irei mostrar como podemos criar App básico para tocar suas músicas utilizando Media Player Framework;
+Aqui eu irei mostrar como podemos criar um App básico para tocar suas músicas utilizando Media Player Framework;
 
 ## Introdução
 
@@ -39,8 +39,7 @@ Link>:https://www.youtube.com/
 Como é visto durante o tutorial o framework é simples e prático, ou seja,
 você não terá dificuldades em utiliza-lo da maneira que deseja.
 
-## Data de Publicação do App: 
---> (31/10/2020)
+## Data de Publicação do App: (31/10/2020)
 
 ## Referencias:
 https://www.youtube.com/watch?v=U95WuzlgOUQ&t=1s
