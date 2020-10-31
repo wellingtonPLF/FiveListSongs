@@ -3,7 +3,7 @@ Example App showing media player framework.
 
 Aqui eu irei mostrar como podemos criar App básico para tocar suas músicas utilizando Media Player Framework;
 
-# Introdução
+## Introdução
 
 De acordo com a pagina developer.android.com o Media player é um framework multimídia do Android que inclui compatibilidade 
 com diversos tipos de mídia comuns. No qual, você pode integrar facilmente áudio, vídeo e imagens aos seus aplicativos. 
