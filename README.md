@@ -1,5 +1,5 @@
 # FiveListSongs
-Example App showing media player framework.
+Recursos: Media player framework and Base Adapter.
 
 Aqui eu irei mostrar como podemos criar um App básico para tocar suas músicas utilizando Media Player Framework;
 
