@@ -19,10 +19,10 @@ MediaPlayer e BaseAdapter.
 
 ## Primeiros Passos:
 
-- [Modelar o activity_main]
-- [Criar uma activity no res/layout para a personalização do ListView (activity_song)]
-- [3 - Criar uma pasta no res para adicionar as músicas ]
-- [4 - Adicionar ao drawable/mipmap as imagens para apresentação do app]
+- Modelar o activity_main
+- Criar uma activity no res/layout para a personalização do ListView (activity_song)
+- 3 - Criar uma pasta no res para adicionar as músicas 
+- 4 - Adicionar ao drawable/mipmap as imagens para apresentação do app
 
 Link>:https://www.youtube.com/
 
