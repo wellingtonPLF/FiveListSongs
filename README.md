@@ -24,7 +24,7 @@ MediaPlayer e BaseAdapter.
 - Criar uma pasta no res para adicionar as músicas 
 - Adicionar ao drawable/mipmap as imagens para apresentação do app
 
- https://www.youtube.com/
+ https://youtu.be/glbP7wMK36U  
 
 ## Ultimos Passos:
 
@@ -32,7 +32,7 @@ MediaPlayer e BaseAdapter.
 - Criar a Classe song (Fazer parte da Lista personalizada)
 - Criar um Base_Adapter para a criação da ListView personalizada
 
- https://www.youtube.com/
+https://youtu.be/shMFpYIgM5g
 
 ## Conclusão:
 
