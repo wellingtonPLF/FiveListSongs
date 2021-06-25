@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
 
         this.lista.add(Songs("numeroum","First song"))
         this.lista.add(Songs("numerodois","Second song"))
-        this.lista.add(Songs("numerotres","Thrid song"))
+        this.lista.add(Songs("numerotres","Third song"))
         this.lista.add(Songs("numeroquatro","Fourth song"))
         this.lista.add(Songs("numerocinco","Fifth song"))
 
