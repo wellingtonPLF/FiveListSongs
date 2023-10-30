@@ -24,22 +24,13 @@ MediaPlayer e BaseAdapter.
 - Criar uma pasta no res para adicionar as músicas 
 - Adicionar ao drawable/mipmap as imagens para apresentação do app
 
- https://youtu.be/glbP7wMK36U  
-
 ## Ultimos Passos:
 
 - Escrever o codigo referente a aplicação
 - Criar a Classe song (Fazer parte da Lista personalizada)
 - Criar um Base_Adapter para a criação da ListView personalizada
 
-https://youtu.be/shMFpYIgM5g
-
 ## Conclusão:
 
 Como é visto durante o tutorial o framework é simples e prático, ou seja,
 você não terá dificuldades em utiliza-lo da maneira que deseja.
-
-## Data de Publicação do App: 31/10/2020
-
-## Referencias:
-https://www.youtube.com/watch?v=U95WuzlgOUQ&t=1s
